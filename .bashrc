@@ -10,6 +10,7 @@ alias h='history'
 alias ll='ls -lah'
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+export L=/root/log
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
